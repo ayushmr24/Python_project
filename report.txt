@@ -1,0 +1,24 @@
+Total Students 4
+
+Subject Averages
+Math: 81.25
+Physics: 82.00
+Chemistry: 82.50
+Biology: 84.25
+
+Overall Class Average: 82.50
+
+Top 3 Students:
+S003 Carol White - 91.25
+S001 Alice Johnson - 88.75
+S002 Bob Smith - 78.75
+
+Students scoring > 90 in any subject:
+S001 Alice Johnson
+S003 Carol White
+
+Highest & Lowest Scores:
+Math: 92 / 70
+Physics: 90 / 68
+Chemistry: 95 / 72
+Biology: 92 / 75
